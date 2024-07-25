@@ -1,0 +1,29 @@
+{
+    "workbench.activityBar.location": "bottom",
+    "workbench.sideBar.location": "right",
+    "workbench.layoutControl.enabled": false,
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Punk Dark Theme",
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "workbench.startupEditor": "none",
+    "window.commandCenter": false,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "breadcrumbs.enabled": false,
+    "editor.fontSize": 12,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.minimap.enabled": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+      
+}
